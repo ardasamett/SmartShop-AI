@@ -1,4 +1,5 @@
-# 🛍️ AI-Powered E-Commerce Recommendation System
+# Smart Shop AI
+### 🛍️ AI-Powered E-Commerce Recommendation System
 
 ![](https://i.ibb.co/Hdr8v9g/Untitled-diagram-2024-10-27-193328.png)
 
@@ -35,7 +36,7 @@ The system is built using a modern tech stack:
 - 🎨 TailwindCSS for styling  
 - 🔄 Real-time state management  
 
-For detailed architectural information and implementation, check out our [technical blog post](xxx.com).
+For detailed architectural information and implementation, check out our [technical blog post](https://medium.com/@sametarda.dev/building-an-ai-powered-e-commerce-recommendation-system-a-comprehensive-overview-c89613a0777d).
 
 ## 🚀 Getting Started
 
@@ -43,13 +44,12 @@ For detailed architectural information and implementation, check out our [techni
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/ardasamett/AI-Powered-E-Commerce-Recommendation-System
-cd AI-Powered-E-Commerce-Recommendation-System
+git clone https://github.com/ardasamett/SmartShop-AI.git
+cd SmartShop-AI
 ```
 
 2. **Backend Setup**  
 ```bash
-cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
@@ -148,7 +148,7 @@ Contributions are welcome! Please review our contributing guidelines before subm
 
 ## 📚 Additional Resources
 
-- 📄 Detailed architecture and implementation: [Technical Blog Post](xxx.com)  
+- 📄 Detailed architecture and implementation: [Technical Blog Post](https://medium.com/@sametarda.dev/building-an-ai-powered-e-commerce-recommendation-system-a-comprehensive-overview-c89613a0777d)  
 - 📖 API Documentation: Available at the `/docs` endpoint  
 - 🧩 Frontend Component Documentation: Available in the UI directory  
 
